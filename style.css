@@ -308,7 +308,7 @@
     height: 36px;
     width: 400px;
     color: #232f3e;
-    background-image:url(amazon_deals.jpg);
+    background-image:url(Images/amazon_deals.jpg);
     background-size: cover;
     margin-left: 10px;
 }
@@ -319,7 +319,7 @@
     margin-top: 60px;
     cursor: auto;
     height: 300px;
-    background-image: url(hero_gif.gif);
+    background-image: url(Images/hero_gif.gif);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -396,29 +396,29 @@
 }
 
 .box1 {
-    background-image:url(box1_image.jpg) ;
+    background-image:url(Images/box1_image.jpg) ;
 }
 .box2 {
-    background-image:url(box2_image.jpg) ;
+    background-image:url(Images/box2_image.jpg) ;
 }
 .box3 { 
-    background-image:url(box3_image.jpg) ;
+    background-image:url(Images/box3_image.jpg) ;
 }
     
 .box4 {
-    background-image:url(box4_image.jpg) ;
+    background-image:url(Images/box4_image.jpg) ;
 }
 .box5 {
-    background-image:url(box5_image.jpg) ;
+    background-image:url(Images/box5_image.jpg) ;
 }
 .box6 {
-    background-image:url(box6_image.jpg) ;
+    background-image:url(Images/box6_image.jpg) ;
 }
 .box7 {
-    background-image:url(box7_image.jpg) ;
+    background-image:url(Images/box7_image.jpg) ;
 }
 .box8 {
-    background-image:url(box8_image.jpg) ;
+    background-image:url(Images/box8_image.jpg) ;
 }
 
 /** Widget-section**/
@@ -523,23 +523,23 @@
 }
 
 .img1 {
-    background-image: url(gita_img.jpg);
+    background-image: url(Images/gita_img.jpg);
 }
 
 .img2 {
-    background-image: url(subconcious_mind.jpg);
+    background-image: url(Images/subconcious_mind.jpg);
 }
 
 .img3 {
-    background-image: url(Rich_dad_poor_dad.jpg);
+    background-image: url(Images/Rich_dad_poor_dad.jpg);
 }
 
 .img4 {
-    background-image: url(money.jpg);
+    background-image: url(Images/money.jpg);
 }
 
 .img5 {
-    background-image: url(Atomic_habits.jpg);
+    background-image: url(Images/Atomic_habits.jpg);
 }
 /** widget-second **/
 
@@ -570,19 +570,19 @@
 }
 
 .imag1 {
-    background-image:url(plate_img.jpg) ;
+    background-image:url(Images/plate_img.jpg) ;
 }
 .imag2 {
-    background-image:url(ganesh.jpg) ;
+    background-image:url(Images/ganesh.jpg) ;
 }
 .imag3 {
-    background-image:url(radha_krishna.jpg) ;
+    background-image:url(Images/radha_krishna.jpg) ;
 }
 .imag4 {
-    background-image:url(buddha_.jpg) ;
+    background-image:url(Images/buddha_.jpg) ;
 }
 .imag5 {
-    background-image:url(dear_img.jpg) ;
+    background-image:url(Images/dear_img.jpg) ;
 }
 
 /**shop-section2 **/
@@ -640,30 +640,29 @@
 }
 
 .box-1 {
-    background-image:url(iphone_black.jpg) ;
+    background-image:url(Images/iphone_black.jpg) ;
 }
 .box2 {
-    background-image:url(box2_image.jpg) ;
-   
+    background-image:url(Images/box2_image.jpg) ;
 }
-.box3 {
-    background-image:url(box3_image.jpg) ;
+.box3 { 
+    background-image:url(Images/box3_image.jpg) ;
 }
     
 .box4 {
-    background-image:url(box4_image.jpg) ;
+    background-image:url(Images/box4_image.jpg) ;
 }
 .box5 {
-    background-image:url(box5_image.jpg) ;
+    background-image:url(Images/box5_image.jpg) ;
 }
 .box6 {
-    background-image:url(box6_image.jpg) ;
+    background-image:url(Images/box6_image.jpg) ;
 }
 .box7 {
-    background-image:url(box7_image.jpg) ;
+    background-image:url(Images/box7_image.jpg) ;
 }
-.box8 { 
-    background-image:url(box8_image.jpg) ;
+.box8 {
+    background-image:url(Images/box8_image.jpg) ;
 }
 
 /** footer first **/
